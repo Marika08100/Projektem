@@ -130,12 +130,10 @@ header a {
     font-weight: bold;
 }
 
-/* main */
 main a {
     color: var(--light);
 }
 
-/* footer */
 footer {
     text-align: center;
 }
